@@ -7,4 +7,5 @@ print("This is AKT")
 # to be printed at the end, enabling multiple outputs to appear on the same line or with custom separators.
 print('My name is Aayush Kunal Thakur.', end = ' ')
 print('I am 22 years old', end = ' next month. ')
-print('My gender is Male', end = ' ')
+print('My pronouns are he/him.', end = ' ')
+
