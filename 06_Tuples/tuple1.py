@@ -1,4 +1,4 @@
-#Tuple Immutable
+#Tuple. Are Immutable. We can't add remove or update. 
 my_tuple = (56,87, 74, 41,52)
 
 x = my_tuple.count(87)
