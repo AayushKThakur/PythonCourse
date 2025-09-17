@@ -5,5 +5,5 @@ with open(
 ) as f:
     print(f.read())
 
-# the file is closed to we will get error
+# the file is closed so we will get error
 print(f.read)
